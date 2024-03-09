@@ -4,3 +4,7 @@ cherry
 guava
 berry
 mango
+
+fork
+clean
+git
