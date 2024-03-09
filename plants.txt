@@ -1,3 +1,5 @@
 goat
 flower
+chicken
+kebab
 mutton
