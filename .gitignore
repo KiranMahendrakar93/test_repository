@@ -1,0 +1,13 @@
+
+# Ignore data files
+great.txt
+
+
+# Ignore the images
+images/*.jpg
+images/*.jpeg
+images/*.png
+
+# Ignore IDE files
+.idea
+.vscode
